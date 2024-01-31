@@ -1,3 +1,10 @@
+CMD 
+step 1 : cd react-aertrip-assignment
+step 2 : npm install
+step 3 : npm run dev
+step 4 : open crome browser goto http://localhost:5173
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
